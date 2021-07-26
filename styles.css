@@ -6,6 +6,11 @@ color: #40514E;
 
 }
 
+#carouselExampleControls{
+    width:30%;
+    margin:100px auto;
+}
+
 .top-container {
   background-color: #EAF6F6;
 position: relative;
@@ -62,6 +67,7 @@ line-height: 2;
   float: left;
   margin-right: 30px;
 }
+
 
 .languages{
   width:25%;
